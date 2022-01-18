@@ -2179,17 +2179,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2022-01-18 17:52:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2022-01-18 17:54:27 +0000",
       "has_the_recipe": "2022-01-18 17:54:27 +0000",
       "has_gravel": "2022-01-18 17:54:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2022-01-18 17:52:38 +0000"
     },
     "done": true
   },
@@ -5622,16 +5622,16 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2022-01-18 17:52:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_terracotta": {
     "criteria": {
       "has_terracotta": "2022-01-18 17:54:27 +0000",
       "has_the_recipe": "2022-01-18 17:54:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stonecutter": {
-    "criteria": {
-      "has_stone": "2022-01-18 17:52:38 +0000"
     },
     "done": true
   },
@@ -5755,6 +5755,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2022-01-18 17:52:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "beetroots": "2022-01-18 17:54:27 +0000",
@@ -5762,12 +5768,6 @@
       "melon_stem": "2022-01-18 17:54:27 +0000",
       "nether_wart": "2022-01-18 17:54:27 +0000",
       "wheat": "2022-01-18 17:54:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
-    "criteria": {
-      "has_stone": "2022-01-18 17:52:38 +0000"
     },
     "done": true
   },
@@ -7898,6 +7898,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2022-01-18 17:52:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_the_recipe": "2022-01-18 17:54:28 +0000",
@@ -7909,12 +7915,6 @@
     "criteria": {
       "has_weathered_cut_copper": "2022-01-18 17:54:28 +0000",
       "has_the_recipe": "2022-01-18 17:54:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2022-01-18 17:52:38 +0000"
     },
     "done": true
   },
@@ -7939,6 +7939,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-01-18 17:52:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_pillar": {
     "criteria": {
       "has_the_recipe": "2022-01-18 17:54:28 +0000",
@@ -7958,12 +7964,6 @@
     "criteria": {
       "has_quartz": "2022-01-18 17:54:28 +0000",
       "has_the_recipe": "2022-01-18 17:54:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2022-01-18 17:52:38 +0000"
     },
     "done": true
   },
