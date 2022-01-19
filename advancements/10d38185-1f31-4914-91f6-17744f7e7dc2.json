@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2022-01-19 16:41:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2022-01-19 16:31:59 +0000"
@@ -107,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2022-01-19 16:41:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2022-01-19 16:31:59 +0000"
@@ -136,7 +148,14 @@
       "minecraft:beach": "2022-01-19 16:33:57 +0000",
       "minecraft:lukewarm_ocean": "2022-01-19 16:33:39 +0000",
       "minecraft:river": "2022-01-19 16:34:11 +0000",
+      "minecraft:lush_caves": "2022-01-19 16:40:29 +0000",
       "minecraft:plains": "2022-01-19 16:30:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2022-01-19 16:41:15 +0000"
     },
     "done": false
   },
