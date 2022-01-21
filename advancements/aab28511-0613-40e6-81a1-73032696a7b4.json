@@ -547,6 +547,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2022-01-21 10:18:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-01-21 09:51:17 +0000"
