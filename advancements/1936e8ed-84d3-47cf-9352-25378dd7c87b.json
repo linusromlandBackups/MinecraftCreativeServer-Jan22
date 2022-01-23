@@ -595,6 +595,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:lukewarm_ocean": "2022-01-23 22:01:58 +0000",
       "minecraft:snowy_taiga": "2022-01-22 17:42:07 +0000",
       "minecraft:plains": "2022-01-19 15:52:59 +0000"
     },
